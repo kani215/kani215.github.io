@@ -4,6 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+Programmer since 2017~
 
-email: agus[at]python.web.id
+Data science for Smart Factory , server
+
+Thinking and Analyzing...
+
+Easy to read and understand but essential program
+
+email: kani215@naver.com
+
