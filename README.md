@@ -1,3 +1,17 @@
+## My first website with Jekyll
+
+It's harder than I thought to make it myself.
+직접 만들자니 생각보다 어렵고
+It hurts my pride to fork Jekyll.
+jekyll를 fork하자니 자존심이 상한다.
+So it's my first website that breaks my heart every time when I manipulate it.
+그래서 조작할 때마다 마음이 아픈 첫 웹사이트입니다.
+I'm going to touch this and that, and I'm going to slowly modify it so that I can see what I've done at a glance.
+이것저것 만지며, 천천히 수정해서 내가 한 걸 한 눈에 보이게 만들어 보겠습니다.
+
+
+## 밑은 남이 
+
 ## My Stack Problems
 
 > This project forked and has been modified from [A simple grey theme for Jekyll](https://github.com/liamsymonds/simplygrey-jekyll),
